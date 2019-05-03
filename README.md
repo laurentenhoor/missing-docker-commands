@@ -1,2 +1,5 @@
-# missing-docker-commands
-The Docker commands you were always missing
+# The missing Docker commands
+
+* Kill all containers
+* Remove all images
+* Delete all images
